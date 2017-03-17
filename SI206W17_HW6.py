@@ -128,8 +128,8 @@ print("\n\n***** Problem 7 *****")
 # Create a list of tuples wherein each tuple has a student's name and productivity value. Save the list of tuples in a variable called 
 ##names_and_productivities. To do this, you should use a list comprehension (you may also use the zip function, and you may use any variables you have 
 ##already created).
-m=zip(names,prod_list)
-names_and_productivities=list(m)
+g=zip(names,prod_list)
+names_and_productivities=list(g)
 ## But be careful that if you use answers from previous problems, you use the LISTs you generated, so that all your tests can still pass and you avoid 
 ##confusion!
 
