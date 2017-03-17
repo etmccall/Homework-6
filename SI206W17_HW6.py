@@ -9,7 +9,7 @@ import itertools
 ## There are 10 problems. Each one is worth 50 points.
 
 ## There are tests for each problem; you should also follow the instructions for things to do in the code that cannot be tested with unit tests, e.g. using certain structures.
-
+##Ethan McCall
 
 ## [PROBLEM 1]
 print("\n\n***** Problem 1 *****")
